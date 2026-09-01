@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Quaffle1230
-- 👀 I’m interested in particle physics beyond Standard Model, especially unification of the quarks and leptons.
+- 👀 I’m interested in particle physics beyond Standard Model, especially unification of quarks and leptons.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on Hyper-Kamiokande experiment.
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me: shinoda_at_km.icrr.u-tokyo.ac.jp
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
