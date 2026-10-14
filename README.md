@@ -2,7 +2,7 @@
 - 👀 I’m interested in particle physics beyond Standard Model, especially unification of quarks and leptons.
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on Hyper-Kamiokande experiment.
-- 📫 How to reach me: shinoda_at_km.icrr.u-tokyo.ac.jp
+- 📫 How to reach me:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
